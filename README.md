@@ -28,3 +28,5 @@ aws s3 cp /tmp/backup.tar.gz s3://my-scaleway-bucket/
 # Clean up
 rm /tmp/backup.tar.gz
 echo "All done!"
+
+# When I pushed my PDF file, I got an error message: "Invalid PDF."
